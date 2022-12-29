@@ -1,0 +1,119 @@
+body{
+    
+background: cornflowerblue;
+font-family: 'poppins';sans-serif;
+}
+
+.min{
+width:500px;
+height:1200px;
+padding:15px;
+font-family:arial;
+margin-top:20px;
+margin: 20vh auto 0 auto;
+padding: 20px;
+background-color: whitesmoke;
+border-radius: 8px;
+font-size: 12px;
+box-shadow: #0f2027;
+}
+.l1{
+	font-family: "Times New Roman", Times, serif;
+	font-size:17px;
+}
+.h1{
+	text-align:center;
+}
+.input{
+ width: 70%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+box-sizing: border-box;
+text-align:center;
+}
+.input1{
+	width: 100px;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+box-sizing: border-box;
+text-align:center;
+}
+.input2{
+ background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+//*ستايل الانبوت*//
+
+.R{
+    text-align: center;
+
+    color: red;
+}.tt{
+		height:auto;
+		
+}
+.div{
+	height:250px;
+}.table{
+	width:80%;
+	text-align:center;
+}
+#customers {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#customers td, #customers th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#customers tr:nth-child(even){background-color: #f2f2f2;}
+
+#customers tr:hover {background-color: #ddd;}
+
+#customers th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #04AA6D;
+  color: white;
+}
+#tbody:{
+	height:300px;
+
+}
+//*ستايل الجيسون*//
+.json1{
+ background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+ .json{
+  width: 100%;
+  height:20%;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  background-color: #f8f8f8;
+  font-size: 16px;
+  resize: none;
+}
